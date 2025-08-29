@@ -1,0 +1,7 @@
+{
+  "chat.promptFiles": true,
+  "chat.promptFilesLocations": {
+    "prompts/**/*.prompt.md": true
+  },
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true
+}
